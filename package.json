@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parthcompengg/ppshah.com.git"
+    "url": "https://github.com/parthcompengg/parth-website.git"
   },
   "engines": {
     "node": ">=14.x"
