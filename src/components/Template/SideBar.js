@@ -20,7 +20,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hello, I&apos;m Parth. At heart, I&apos;m a builder and innovator, with a passion for crafting software that enriches lives. With a solid foundation in <a href="https://oregonstate.edu/">Computer Scinece</a>  from Oregon State University, I excel in translating complex problems into user-friendly applications. My journey in the tech industry has been marked by significant contributions to diverse organizations, including <a href="https://imriel.com/">IMRIEL - Software made simple</a>, <a href="https://www.ehiehr.com/">Enable Healthcare Inc.</a>, and <a href="http://www.kreativeapps.com/">Kreative Apps</a>, where I honed my skills in developing smart business applications.
+      <p>Hello, I&apos;m Parth. At heart, I&apos;m a builder and innovator, with a passion for crafting software that enriches lives. With a solid foundation in <a href="https://oregonstate.edu/">Computer Science</a>  from Oregon State University, I excel in translating complex problems into user-friendly applications. My journey in the tech industry has been marked by significant contributions to diverse organizations, including <a href="https://imriel.com/">IMRIEL - Software made simple</a>, <a href="https://www.ehiehr.com/">Enable Healthcare Inc.</a>, and <a href="http://www.kreativeapps.com/">Kreative Apps</a>, where I honed my skills in developing smart business applications.
       </p>
       <ul className="actions">
         <li>
