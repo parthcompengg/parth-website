@@ -9,7 +9,7 @@ At SARL, I merge software engineering with scientific exploration, creating secu
 
 # Some history
 
-- At 17, I finished my High school study and left my home to pursue my bachelor's degree from North Maharashtra University located around 300 miles far from home.
+- At 17, I finished my High school study and moved away from my home to pursue my bachelor's degree from North Maharashtra University, which was  around 300 miles away.
 - At 21, I got my undergrad degree in Computer Science and my passion for Software Engineering began.
 - At 22, I started my first job as Software Engineer at Kreative-Apps where I created my first mobile web app.
 
