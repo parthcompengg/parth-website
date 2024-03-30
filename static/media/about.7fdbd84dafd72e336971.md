@@ -32,7 +32,7 @@ At SARL, I merge software engineering with scientific exploration, creating secu
 - In 2015, I visited: Rajasthan, India. 
 - In 2020, I visited: GOA, India.
 - In 2021, I barely traveled 20 blocks. I stayed in Vadodara, India and remodeled an apartment.
-- In 2022, I moved to United States for my further studies in Computer scinece stream. I visited NASA Space Center, Houston (TX). 
+- In 2022, I moved to United States for my further studies in Computer Science stream. I visited NASA Space Center, Houston (TX). 
 - In 2023, I visited Multnomah Falls near Portland (OR).
 - I am an Oregon Trail II enthusiast.
 
