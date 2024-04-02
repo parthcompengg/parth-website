@@ -13,7 +13,7 @@ const data = [
   },
   {
     title: 'SEDO',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    subtitle: '',
     link: '',
     image: '/images/projects/catdetector.jpg',
     date: '2021',
@@ -24,7 +24,7 @@ const data = [
   },
   {
     title: 'ERIX',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    subtitle: '',
     link: '',
     image: '/images/projects/catdetector.jpg',
     date: '2020',
@@ -35,7 +35,7 @@ const data = [
   },
   {
     title: 'PLUS',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    subtitle: '',
     image: '/images/projects/catdetector.jpg',
     date: '2019',
     desc:
