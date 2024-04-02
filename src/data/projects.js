@@ -14,7 +14,7 @@ const data = [
   {
     title: 'SEDO',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    link: '',
     image: '/images/projects/catdetector.jpg',
     date: '2021',
     desc:

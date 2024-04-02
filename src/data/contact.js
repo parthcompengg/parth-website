@@ -25,7 +25,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:parthshah_pp@outlook.com',
+    link: 'mailto:shahpa@oregonstate.edu',
     label: 'Email',
     icon: faEnvelope,
   },
