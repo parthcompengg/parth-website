@@ -14,26 +14,11 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/md',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
-  // {
-  //   link: 'https://www.instagram.com/dangelosaurus/',
-  //   label: 'Instagram',
-  //   icon: faInstagram,
-  // },
   {
     link: 'https://www.linkedin.com/in/parth-shah-pp/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  // {
-  //   link: 'https://angel.co/michael-d-angelo',
-  //   label: 'Angel List',
-  //   icon: faAngellist,
-  // },
   {
     link: 'https://twitter.com/PpShah11',
     label: 'Twitter',
