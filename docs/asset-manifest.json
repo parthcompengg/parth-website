@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parth-website/static/css/main.c0b5f8ee.css",
+    "main.css": "/parth-website/static/css/main.css",
     "main.js": "/parth-website/static/js/main.5e8c1ce6.js",
     "static/js/851.019a07c5.chunk.js": "/parth-website/static/js/851.019a07c5.chunk.js",
     "static/js/117.e8274428.chunk.js": "/parth-website/static/js/117.e8274428.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/625.c68b21f7.chunk.js": "/parth-website/static/js/625.c68b21f7.chunk.js",
     "static/media/about.md": "/parth-website/static/media/about.948a527139bf309413f7.md",
     "index.html": "/parth-website/index.html",
-    "main.c0b5f8ee.css.map": "/parth-website/static/css/main.c0b5f8ee.css.map",
+    "main.css.map": "/parth-website/static/css/main.css.map",
     "main.5e8c1ce6.js.map": "/parth-website/static/js/main.5e8c1ce6.js.map",
     "851.019a07c5.chunk.js.map": "/parth-website/static/js/851.019a07c5.chunk.js.map",
     "117.e8274428.chunk.js.map": "/parth-website/static/js/117.e8274428.chunk.js.map",
@@ -25,7 +25,7 @@
     "209.04592873.chunk.js.map": "/parth-website/static/js/209.04592873.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b5f8ee.css",
+    "static/css/main.css",
     "static/js/main.5e8c1ce6.js"
   ]
 }
