@@ -3,7 +3,7 @@ const degrees = [
     school: 'Oregon State University',
     degree: 'Masters of Engineering in Computer Science',
     link: 'https://oregonstate.edu',
-    year: 'Present',
+    year: '2024',
   },
   {
     school: 'North Maharastra University',
