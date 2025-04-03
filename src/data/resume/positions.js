@@ -1,9 +1,19 @@
 const positions = [
   {
+    company: 'Infosys Limited',
+    position: 'Technology Lead',
+    link: 'https://infosys.com',
+    daterange: 'Octorber 2024 - Present',
+    points: [
+      'Spearheaded the development and deployment of innovative Microsoft Xbox Gaming and Commerce platforms using Kubernetes, Azure Kubernetes Service, and Azure DevOps, driving significant revenue growth and technical excellence',
+      'Coordinated cross-geographical engineering teams, established collaboration and enhancing problem-solving and crisis management capabilities.',
+    ],
+  },
+  {
     company: 'The Sinnhuber Aquatic Research Laboratory (SARL, Oregon State University)',
     position: 'Software Engineer',
     link: 'https://tanguaylab.com',
-    daterange: 'November 2022 - Present',
+    daterange: 'November 2022 - October 2024',
     points: [
       'Develop both front-end using React JS and back-end using .NET Web API, C# and MySQL projects and proofs of concepts, transforming existing software designs and specifications into new technology with high-quality code.',
       'Collaborate with scientists and researchers to understand the experimental process and develop software applications that meet their needs.',
