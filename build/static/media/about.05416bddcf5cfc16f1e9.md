@@ -2,7 +2,7 @@
 # Intro
 
 I am a Technology Lead with strong analytical and technical skills. I work with Microsoft SMEs and Xbox gaming service owners to understand code base and develop software applications that meet their needs. I am particularly interested in projects that touch health and safety, imaging, social impact, and education. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
-<!-- I am a Biocomputing Software Engineer with strong analytical and technical skills. I work with scientist and researchers to understand experimental process and develop software applications that meet their needs. I am particularly interested in projects that touch health and safety, imaging, social impact, and education. If you think I can be helpful to you or would like to meet me, please feel free to get in touch. -->
+<!-- I am a Biocomputing Software Engineer with strong `analytical` and technical skills. I work with scientist and researchers to understand experimental process and develop software applications that meet their needs. I am particularly interested in projects that touch health and safety, imaging, social impact, and education. If you think I can be helpful to you or would like to meet me, please feel free to get in touch. -->
 
 # Currently
 

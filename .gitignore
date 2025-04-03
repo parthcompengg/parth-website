@@ -2,7 +2,7 @@
 yarn.lock
 
 # eslint
-#.eslintcache
+.eslintcache
 
 # Logs
 logs
