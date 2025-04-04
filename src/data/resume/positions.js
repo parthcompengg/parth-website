@@ -1,9 +1,19 @@
 const positions = [
   {
+    company: 'Infosys Limited',
+    position: 'Technology Lead',
+    link: 'https://infosys.com',
+    daterange: 'Octorber 2024 - Present',
+    points: [
+      'Spearheaded the development and deployment of innovative Microsoft Xbox Gaming and Commerce platforms using Kubernetes, Azure Kubernetes Service, and Azure DevOps, driving significant revenue growth and technical excellence',
+      'Coordinated cross-geographical engineering teams, established collaboration and enhancing problem-solving and crisis management capabilities.',
+    ],
+  },
+  {
     company: 'The Sinnhuber Aquatic Research Laboratory (SARL, Oregon State University)',
     position: 'Software Engineer',
     link: 'https://tanguaylab.com',
-    daterange: 'November 2022 - Present',
+    daterange: 'November 2022 - October 2024',
     points: [
       'Develop both front-end using React JS and back-end using .NET Web API, C# and MySQL projects and proofs of concepts, transforming existing software designs and specifications into new technology with high-quality code.',
       'Collaborate with scientists and researchers to understand the experimental process and develop software applications that meet their needs.',
@@ -44,9 +54,11 @@ const positions = [
     link: 'http://www.kreativeapps.com/',
     daterange: 'April 2013 - January 2014',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Worked closely with the Project Manager for understanding functional and technical requirements of the ERP system and having good knowledge of ERP development process and functional areas of different modules of the ERP.',
+      'Designed and implemented complex business logic and system workflows in the back end application.',
+      'Formulated program specifications and basic prototypes and transformed software designs and specifications into high functioning code in programming language.',
+      'Designed and maintained highly performing stored procedures, functions and views to cater for new and changing business requirement',
+      'Co-Managed Client communication to understand requirements. Also provided necessary know-how and training regarding functional and technical aspects of products and application.',
     ],
   },
   {
@@ -55,8 +67,8 @@ const positions = [
     // link: '',
     daterange: 'August 2012 - March 2013',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'I deepened my understanding of .NET frameworks and C# programming, mastering concepts like ASP.NET, Entity Framework, and LINQ, which were integral to our development process',
+      'I tackled various technical challenges, such as optimizing code for performance and debugging complex issues, which sharpened my problem-solving abilities and attention to detail.',
     ],
   },
 ];

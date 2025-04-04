@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Corvallis, OR (United States)',
+    value: 'Tempe, Arizona (United States)',
   },
 ];
 
