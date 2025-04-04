@@ -2,7 +2,7 @@
 yarn.lock
 
 # eslint
-#.eslintcache
+.eslintcache
 
 # Logs
 logs
@@ -40,7 +40,7 @@ build/Release
 public/dist/
 dist/
 tmp/
-build/
+#build/
 
 # OSX
 .DS_Store
