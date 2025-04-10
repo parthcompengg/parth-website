@@ -47,4 +47,5 @@ tmp/
 
 # Nohup
 nohup.out
+#node_modules
 node_modules
